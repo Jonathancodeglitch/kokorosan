@@ -15,6 +15,7 @@ body {
 }
 
 .main {
+  background-color: black;
   background-image: url('./img/chrismas.jpg');
   background-size: cover;
   width: 100%;
